@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vyshnavi-koleti.github.io/csb-w4553/static/css/main.4b6f618e.chunk.css",
+    "main.js": "https://vyshnavi-koleti.github.io/csb-w4553/static/js/main.c0d205f6.chunk.js",
+    "main.js.map": "https://vyshnavi-koleti.github.io/csb-w4553/static/js/main.c0d205f6.chunk.js.map",
+    "runtime-main.js": "https://vyshnavi-koleti.github.io/csb-w4553/static/js/runtime-main.85d6d6b3.js",
+    "runtime-main.js.map": "https://vyshnavi-koleti.github.io/csb-w4553/static/js/runtime-main.85d6d6b3.js.map",
+    "static/js/2.9061fc70.chunk.js": "https://vyshnavi-koleti.github.io/csb-w4553/static/js/2.9061fc70.chunk.js",
+    "static/js/2.9061fc70.chunk.js.map": "https://vyshnavi-koleti.github.io/csb-w4553/static/js/2.9061fc70.chunk.js.map",
+    "index.html": "https://vyshnavi-koleti.github.io/csb-w4553/index.html",
+    "static/css/main.4b6f618e.chunk.css.map": "https://vyshnavi-koleti.github.io/csb-w4553/static/css/main.4b6f618e.chunk.css.map",
+    "static/js/2.9061fc70.chunk.js.LICENSE.txt": "https://vyshnavi-koleti.github.io/csb-w4553/static/js/2.9061fc70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85d6d6b3.js",
+    "static/js/2.9061fc70.chunk.js",
+    "static/css/main.4b6f618e.chunk.css",
+    "static/js/main.c0d205f6.chunk.js"
+  ]
+}
